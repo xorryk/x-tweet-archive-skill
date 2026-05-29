@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Tweet Archive"
+  short_description: "Capture visible X/Twitter timelines into JSON and Markdown."
+  default_prompt: "Capture tweets from an X profile or search URL, then produce a deduplicated JSON archive and Markdown summary."
