@@ -1,5 +1,7 @@
 runs/
 edge-profile/
+edge-control-profile/
+scripts/edge-control-profile/
 profiles/
 downloads/
 *.zip
